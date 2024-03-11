@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Laboratory](https://gofile.me/78TQg/B0ya25kSe)
 
+## [File: HospitalLaboratorySetup20240811.zip] - 11/03/2024
+### Sửa lỗi:
+- Lỗi hiển thị phiếu kết quả Xét nghiệm tế bào tử cung. Chi tiết: [#To_Lap_Trinh/issues/304](https://github.com/dh-hos/To_Lap_Trinh/issues/304#issuecomment-1987471747)
+
 ## [File: HospitalLaboratorySetup20240308.zip] - 08/03/2024
 ### Thêm mới:
 - Bổ sung loại bệnh phẩm `Phết nhúng dịch Pathtezt kit` và `Phết nhúng dịch Cytopath kit`. Chi tiết: [#To_Lap_Trinh/issues/304](https://github.com/dh-hos/To_Lap_Trinh/issues/304)
