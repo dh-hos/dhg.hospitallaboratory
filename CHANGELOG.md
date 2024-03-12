@@ -1,6 +1,10 @@
 # Nhật ký phiên bản - [DHG.Hospital Laboratory](https://gofile.me/78TQg/B0ya25kSe)
 
-## [File: HospitalLaboratorySetup20240811.zip] - 11/03/2024
+## [File: HospitalLaboratorySetup20240312.zip] - 12/03/2024
+### Sửa lỗi:
+- Lỗi khi hiển thị form thực hiện Xét nghiệm Đờm (sau khi đã có kết quả). Chi tiết: [#52](https://github.com/dh-hos/dhg.hospitallaboratory/issues/52)
+
+## [File: HospitalLaboratorySetup20240311.zip] - 11/03/2024
 ### Sửa lỗi:
 - Lỗi hiển thị phiếu kết quả Xét nghiệm tế bào tử cung. Chi tiết: [#To_Lap_Trinh/issues/304](https://github.com/dh-hos/To_Lap_Trinh/issues/304#issuecomment-1987471747)
 
