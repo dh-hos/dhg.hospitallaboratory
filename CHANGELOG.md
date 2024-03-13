@@ -1,5 +1,11 @@
 # Nhật ký phiên bản - [DHG.Hospital Laboratory](https://gofile.me/78TQg/B0ya25kSe)
 
+## [File: HospitalLaboratorySetup20240313.zip] - 13/03/2024
+### Sửa lỗi:
+- Lỗi hủy kết quả tế bào tử cung `(BV Phụ sản: 92118)`. Chi tiết: [#53](https://github.com/dh-hos/dhg.hospitallaboratory/issues/53)
+### Thêm mới:
+- Bổ sung chức năng cấu hình CLS theo phòng xuất LCD `(BV ĐK Ô Môn: 92007)`. Chi tiết: [#To_Lap_Trinh/issues/310](https://github.com/dh-hos/To_Lap_Trinh/issues/310)
+
 ## [File: HospitalLaboratorySetup20240312.zip] - 12/03/2024
 ### Sửa lỗi:
 - Lỗi khi hiển thị form thực hiện Xét nghiệm Đờm (sau khi đã có kết quả). Chi tiết: [#52](https://github.com/dh-hos/dhg.hospitallaboratory/issues/52)
