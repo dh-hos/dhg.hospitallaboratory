@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Laboratory](https://gofile.me/78TQg/B0ya25kSe)
 
+## [File: HospitalLaboratorySetup20240314.zip] - 14/03/2024
+### Thêm mới:
+- Bổ sung chức năng quản lý quầy điều phối lấy mẫu tại khoa Xét nghiệm `(BV ĐK Ô Môn: 92007)`. Chi tiết: [#To_Lap_Trinh/issues/310](https://github.com/dh-hos/To_Lap_Trinh/issues/310#issuecomment-1996289305)
+
 ## [File: HospitalLaboratorySetup20240313.zip] - 13/03/2024
 ### Sửa lỗi:
 - Lỗi hủy kết quả tế bào tử cung `(BV Phụ sản: 92118)`. Chi tiết: [#53](https://github.com/dh-hos/dhg.hospitallaboratory/issues/53)
