@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Laboratory](https://gofile.me/78TQg/B0ya25kSe)
 
+## [File: HospitalLaboratorySetup20240405.zip] - 05/04/2024
+### Sửa lỗi:
+- Sinh thiết khi xem lại ngày trước đó không load lại được cận lâm sàng đã chỉ định `(BVĐK Sa Đéc: 87014)`. Chi tiết: [#55](https://github.com/dh-hos/dhg.hospitallaboratory/issues/55)
+
 ## [File: HospitalLaboratorySetup20240322.zip] - 22/03/2024
 ### Cập nhật:
 - Thay đổi giọng đọc phát loa gọi bệnh nhân vào nhận kết quả tại form điều phối lấy mẫu tại khoa Xét nghiệm `(BV ĐK Ô Môn: 92007)`. Ví dụ giọng đọc sẽ đọc câu `MỜI BỆNH NHÂN CÓ SỐ THỨ TỰ 1 VÀO NHẬN KẾT QUẢ`. Chi tiết: [#To_Lap_Trinh/issues/330](https://github.com/dh-hos/To_Lap_Trinh/issues/330)
