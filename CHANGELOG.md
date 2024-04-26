@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Laboratory](https://gofile.me/78TQg/B0ya25kSe)
 
+## [File: HospitalLaboratorySetup20240426.zip] - 26/04/2024
+### Thêm mới:
+- Bổ sung tiêu chí thời gian xem báo cáo `Lượt thực hiện xét nghiệm`. Chi tiết: [#To_Lap_Trinh/issues/338](https://github.com/dh-hos/To_Lap_Trinh/issues/338)
+
 ## [File: HospitalLaboratorySetup20240405.zip] - 05/04/2024
 ### Sửa lỗi:
 - Sinh thiết khi xem lại ngày trước đó không load lại được cận lâm sàng đã chỉ định `(BVĐK Sa Đéc: 87014)`. Chi tiết: [#55](https://github.com/dh-hos/dhg.hospitallaboratory/issues/55)
