@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Laboratory](https://gofile.me/78TQg/B0ya25kSe)
 
+## [File: HospitalLaboratorySetup20240504.zip] - 04/05/2024
+### Sửa lỗi:
+- Kết quả xét nghiệm Vi sinh KHÔNG bất thường, nhưng khi in phiếu kết quả lại IN ĐẬM. Chi tiết: [#58](https://github.com/dh-hos/dhg.hospitallaboratory/issues/58)
+
 ## [File: HospitalLaboratorySetup20240426.zip] - 26/04/2024
 ### Thêm mới:
 - Bổ sung tiêu chí thời gian xem báo cáo `Lượt thực hiện xét nghiệm`. Chi tiết: [#To_Lap_Trinh/issues/338](https://github.com/dh-hos/To_Lap_Trinh/issues/338)
