@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Laboratory](https://gofile.me/78TQg/B0ya25kSe)
 
+## [File: HospitalLaboratorySetup20240510.zip] - 10/05/2024
+### Sửa lỗi:
+- Các báo cáo lượt chỉ định xét nghiệm (theo khoa/phòng/bác sĩ/xét nghiệm) không load được xét nghiệm sinh thiết. Chi tiết: [#59](https://github.com/dh-hos/dhg.hospitallaboratory/issues/59)
+
 ## [File: HospitalLaboratorySetup20240504.zip] - 04/05/2024
 ### Sửa lỗi:
 - Kết quả xét nghiệm Vi sinh KHÔNG bất thường, nhưng khi in phiếu kết quả lại IN ĐẬM. Chi tiết: [#58](https://github.com/dh-hos/dhg.hospitallaboratory/issues/58)
